@@ -1,5 +1,7 @@
-[15952:24788:0714/103636.977:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[15952:8544:0714/103637.089:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[15952:24788:0714/103637.144:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[22956:28244:0714/103638.900:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-AB455DA8303047685DA0C67667866C10 will be ignored
-[15952:24788:0714/103859.499:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[27364:31104:0804/004505.286:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27364:46948:0804/004505.322:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[27364:31104:0804/004505.329:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[47320:44940:0804/004508.114:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-89AE4B8F7A7DD51D18E52C2CD4395789 will be ignored
+[27364:18880:0804/004508.544:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27364:31104:0804/004511.576:ERROR:device_event_log_impl.cc(196)] [00:45:11.560] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[27364:31104:0804/004657.769:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
