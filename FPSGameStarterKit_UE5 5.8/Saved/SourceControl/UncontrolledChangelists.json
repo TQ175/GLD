@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Maps/Testing_BuiltData.uasset",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Maps/Testing.umap",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Maps/Level_1.umap",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Materials/M_Glass.uasset",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Maps/Level_1_BuiltData.uasset",
+				"C:/Program Files/Epic Games/UE_5.8/Engine/Content/EngineSky/M_SimpleSkyDome.uasset",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Maps/_GENERATED/dmitr/CubeGridToolOutput_20D7CBF8.uasset",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Maps/_GENERATED/dmitr/Rectangle_38AEDD79.uasset",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Blueprints/Bonus/VendingMachines/BP_VendingMachine_NextLevel.uasset",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Blueprints/Bonus/VendingMachines/BP_VendingMachine_NextLevel2.uasset",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Blueprints/Bonus/VendingMachines/BP_VendingMachine_NextLevel3.uasset",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Maps/Level_2.umap",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Blueprints/Bonus/VendingMachines/BP_VendingMachine_NextLevelSQ.uasset",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Maps/Level_3_BuiltData.uasset",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Maps/Level_3.umap",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Maps/Level_2_BuiltData.uasset",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Blueprints/Bonus/VendingMachines/BP_VendingMachine_NextLevel4.uasset",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Maps/Level_4_BuiltData.uasset",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Maps/Level_4.umap",
+				"C:/Users/dmitr/OneDrive/Desktop/FPSGameStarterKit_UE5 5.8/Content/FPS_Game/Maps/Area51_SideQuest_V3.umap",
+				"C:/Users/KRISL/Downloads/FPSGameStarterKit_UE5/FPSGameStarterKit_UE5/Content/FPS_Game/Maps/Level_1.umap",
+				"C:/Users/KRISL/Downloads/FPSGameStarterKit_UE5/FPSGameStarterKit_UE5/Content/FPS_Game/UI/W_SaveMainMenu.uasset",
+				"C:/Users/KRISL/Downloads/FPSGameStarterKit_UE5/FPSGameStarterKit_UE5/Content/FPS_Game/Maps/Level_2.umap",
+				"C:/Users/KRISL/Downloads/FPSGameStarterKit_UE5/FPSGameStarterKit_UE5/Content/FPS_Game/Blueprints/Bonus/VendingMachines/BP_VendingMachine_NextLevel.uasset",
+				"C:/Users/KRISL/Downloads/FPSGameStarterKit_UE5/FPSGameStarterKit_UE5/Content/FPS_Game/Materials/M_Basic_Floor.uasset",
+				"F:/NYP/DX1217 3DLD/FPS_Starter_Kit_UE5/FPSGameStarterKit/Content/FPS_Game/Maps/Testing.umap"
+			]
+		}
+	]
+}
